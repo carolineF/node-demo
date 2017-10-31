@@ -1,0 +1,11 @@
+{
+  "name": "node-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:carolineF/node-demo.git",
+    "type": "git"
+  },
+  "author": "wangfengzhu <wangfengzhu@meituan.com>",
+  "license": "MIT"
+}
